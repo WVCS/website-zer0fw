@@ -1,3 +1,25 @@
-body {
+body{
+  background-color: #2C5F2D;
+}
 
+h1{
+  color: #97BC62;
+  font-size: 40px;
+  font-family: "Times New Roman", Times, serif;
+  text-decoration: overline underline double black 6px;
+  word-spacing: 10px;
+  letter-spacing: 2px;
+  text-shadow: 2px 2px 5px;
+}
+
+h1:hover {
+  font-size: 80x;
+  color: #1E2F24;
+}
+img{
+  width: 60%;
+}
+img:hover{
+  width: 80%;
+   border: solid #1E2F24 20px;
 }
