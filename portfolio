@@ -1,0 +1,68 @@
+<html>
+  <body>
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        @media (max-width: 768px) {
+
+        }
+
+
+    </style>
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="index.html" >Home</a></li>
+            <li><a href="portfolio.html" class="active">Portfolio</a></li>
+            <li><a href="graphicDesign.html">Graphic Design</a></li>
+            <li><a href="photo.html">Photos of Me</a></li>
+        </ul>
+    </nav>
+
+   
+</body>
+</html>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <h1>
+      <center>
+      Portfolio
+        </h1>
+      
+      <br>
+      <br>
+      
+      
+      
+      
+        
+<iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/LnaOziaoFGdeDBtmC9LONR2wkr3mtxsq4ESLeigxNH2/embed?nosource"></iframe>
+        
+<iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/GQkEgjzVnOle3tr6lj9v0rCLGWsdM1BNhyyBVeggied/embed?nosource"></iframe>
+        
+<iframe width="392" height="620" style="border: 0px;" src="https://studio.code.org/projects/applab/6MNbvlRvExBA8_TNmBNddZDRAc0sOOr7M7U2CHklpfg/embed?nosource"></iframe>
+        
+<iframe src="https://scratch.mit.edu/projects/1058398223/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+        
+    
+    
+    
+  </body>  
+    
+</html>
+  
